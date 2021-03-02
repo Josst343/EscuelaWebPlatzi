@@ -1,0 +1,8 @@
+PseudoClases
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
+
+Pseudo elementos
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-elements
+
+BEM:
+https://en.bem.info/methodology/faq/#why-bem
