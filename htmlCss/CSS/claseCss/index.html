@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clase CSS</title>
+    <link rel="stylesheet" href="style.css">
+    <!--Solo si es muy poco estilo usar STYLE-->
+    <style>
+        p.estilo{
+            color: blue;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <!--Estilo embebido evitarla lo mas posible-->
+        <p style="color: brown; font-size: 30px;">Soy un texto</p>
+        <!--Estilo en el heder-->
+        <p class="estilo" >Otro estilo</p>
+        <!--estilo des de archivo -->
+        <p class="archivo"> tercera forma</p>
+        <!--Selector por id-->
+        <p id="archivo2"> selector 2</p>
+
+        <p>General 1</p>
+        <p>General 2</p>
+    </main>
+</body>
+</html>

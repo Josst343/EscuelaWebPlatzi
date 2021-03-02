@@ -1,0 +1,16 @@
+/* class Selector por clase */
+.archivo{
+    color: pink;
+    font-size: 20px;
+}
+/*Selector universal*/
+p{
+    color: lightcoral;
+    font-size: 15px;
+}
+
+/* Selector por id*/
+#archivo2{
+    color: green;
+    font-size: 24px;
+}
