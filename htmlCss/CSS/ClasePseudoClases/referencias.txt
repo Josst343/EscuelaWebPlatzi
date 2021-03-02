@@ -6,3 +6,8 @@ https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-elements
 
 BEM:
 https://en.bem.info/methodology/faq/#why-bem
+
+
+Calculadora para importancia de estilos 
+https://www.codecaptain.io/tools/css-specificity-calculator
+
