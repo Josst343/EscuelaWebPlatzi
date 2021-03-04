@@ -41,3 +41,4 @@ h1{
     font-size: 20px;
     background-color: grey;
 }
+/*No es buena practica usar Important estylos embebidos ni utilizar los id para los estilos */
